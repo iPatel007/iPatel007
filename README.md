@@ -70,18 +70,26 @@ I am dedicated to **bridging the gap between mobile development and AI-powered a
 
 ## 🌎 Connect with Me  
 <p>
-  <a href="https://www.linkedin.com/in/amitjarsaniya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/AmitJarsaniya07" target="_blank">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter" alt="X (Twitter)">
-  </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/1917782/ipatel" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow" alt="StackOverflow">
-  </a>&nbsp;&nbsp;
-  <a href="https://quickstartflutterdart.blogspot.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-QuickStartFlutterDart-orange?style=for-the-badge&logo=blogger" alt="Blog">
-  </a>
+  <span style="margin-right: 10px;">
+    <a href="https://www.linkedin.com/in/amitjarsaniya/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    </a>
+  </span>
+  <span style="margin-right: 10px;">
+    <a href="https://x.com/AmitJarsaniya07" target="_blank">
+      <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter" alt="X (Twitter)">
+    </a>
+  </span>
+  <span style="margin-right: 10px;">
+    <a href="https://stackoverflow.com/users/1917782/ipatel" target="_blank">
+      <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow" alt="StackOverflow">
+    </a>
+  </span>
+  <span style="margin-right: 10px;">
+    <a href="https://quickstartflutterdart.blogspot.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Blog-QuickStartFlutterDart-orange?style=for-the-badge&logo=blogger" alt="Blog">
+    </a>
+  </span>
 </p>
 
 ---
