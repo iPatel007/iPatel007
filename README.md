@@ -46,10 +46,10 @@
 
 ## 🔗 Connect with Me
 <p>
-  <a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/amitjarsaniya/)" target="_blank">
+  <a href="https://www.linkedin.com/in/amitjarsaniya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="[https://twitter.com/your-twitter-profile](https://x.com/AmitJarsaniya07)" target="_blank">
+  <a href="https://x.com/AmitJarsaniya07" target="_blank">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
 </p>
