@@ -10,7 +10,7 @@
 </p>
 
 ## 🚀 About Me  
-I am a **seasoned Software Engineer** with over **11 years of experience** in **mobile application development**, specializing in **Flutter, Swift, and SwiftUI**. My expertise lies in designing and developing **scalable, high-performance mobile applications** with a strong emphasis on **user experience and seamless performance**.  
+I am a **seasoned Software Engineer** with over **11+ years of experience** in **mobile application development**, specializing in **Flutter, Swift, and SwiftUI**. My expertise lies in designing and developing **scalable, high-performance mobile applications** with a strong emphasis on **user experience and seamless performance**.  
 
 Currently, I am transitioning into the field of **Artificial Intelligence (AI) and Machine Learning (ML)**, where I am exploring **deep learning, natural language processing, and generative AI**. My goal is to leverage AI-driven solutions to create **innovative, intelligent applications** that enhance user engagement and business efficiency.  
 
@@ -53,6 +53,8 @@ I am dedicated to **bridging the gap between mobile development and AI-powered a
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### **Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
